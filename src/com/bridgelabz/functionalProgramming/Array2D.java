@@ -31,9 +31,6 @@ public class Array2D {
 		
 		try {
 			
-//			OutputStream outputStream = new FileOutputStream("D:\\Workspace\\JavaPractice\\GamblersGame\\output.txt");  
-//            Writer outputStreamWriter = new OutputStreamWriter(outputStream); 
-//            
             PrintWriter printWriter = new PrintWriter(System.out);
             
             FileOutputStream file = new FileOutputStream("D:\\Workspace\\JavaPractice\\GamblersGame\\output.txt");
